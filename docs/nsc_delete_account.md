@@ -9,7 +9,7 @@ nsc delete account [flags]
 ### Examples
 
 ```
-nsc delete account -n name
+nsc delete account -n bharathi
 nsc delete account -i
 
 ```
@@ -19,7 +19,7 @@ nsc delete account -i
 ```
   -F, --force         managed accounts must supply --force
   -h, --help          help for account
-  -n, --name string   name of account to delete
+  -n, --name string  bharathi
   -R, --revoke        revoke users before deleting (default true)
   -C, --rm-creds      delete users creds
   -D, --rm-nkey       delete user keys
